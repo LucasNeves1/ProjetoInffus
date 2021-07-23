@@ -1,0 +1,22 @@
+.resultados{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.time{
+    width:20%;
+    border:1px solid;
+    margin:20px;
+    border-radius:3px;
+    padding:15px;
+}
+.nomeUsers{
+    border-bottom:1px solid; 
+    font-size:18px; 
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,0 +1,13 @@
+.formulario{
+    background-color:gainsboro;
+    width:30%;
+    margin:auto;
+    border-radius:10px;
+    padding:20px;
+}
+.inputTeste{
+    border: 1px solid;
+    padding:6px;
+    border-radius:6px;
+    margin:5px;
+}
