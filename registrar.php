@@ -61,9 +61,9 @@ include_once './conexao.php'
             <br>
             <input type="text" name="email" class="inputTeste" id="email" required placeholder="Email">
             <br>
-            <input type="text" name="senha" class="inputTeste" id="senha" required placeholder="Senha">
+            <input type="password" name="senha" class="inputTeste" id="senha" required placeholder="Senha">
             <br>
-            <input type="text" name="confirm_senha" class="inputTeste" id="confirm_senha" required placeholder="Confirme a senha">
+            <input type="password" name="confirm_senha" class="inputTeste" id="confirm_senha" required placeholder="Confirme a senha">
             <br>
             <input type="textarea" name="observacoes" class="inputTeste" id="observacoes" placeholder="Observações">
             <br><br>

@@ -35,7 +35,7 @@ include_once './conexao.php'
 
             <input type="text" name="email" id="nome" placeholder="E-mail" class="inputCss"><br>
 
-            <input type="text" name="senha" id="senha" placeholder="Senha" class="inputCss"><br>
+            <input type="password" name="senha" id="senha" placeholder="Senha" class="inputCss"><br>
 
             <br><input type="submit" name="logar" id="logar" value="LOGIN" class="btn btn-success">
 

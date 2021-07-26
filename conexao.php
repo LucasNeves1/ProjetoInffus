@@ -2,9 +2,9 @@
 
 session_start();
 
-$host = "localhost";
-$user = "root";
-$pass = "";
+$host = "vps-4133245.autobusiness.com.br";
+$user = "desafioinffus_lucas";
+$pass = "}s~S!Nl8+XS{";
 $dbname = "desafioinffus_db";
 $port = "3306";
 
